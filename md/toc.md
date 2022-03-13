@@ -1,5 +1,5 @@
 | com        | com          | com     | com                |
-| ---------- | -----------_ | ------- | ------------------ |
+| ---------- | ------------ | ------- | ------------------ |
 | alias      │ any?         │ cd      │ columns            │
 all?         │ append       │ char    │ compact            │
 | ansi       │ benchmark    │ chkplug │ complete           │
