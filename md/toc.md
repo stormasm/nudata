@@ -1,4 +1,4 @@
-| com   | com | com | com | com |
+| com         | com          | com     | com                | com |
 | ----------  | -----------  | ------- | ------------------ | ------- |
 alias         │ any?         │ cd      │ columns            │ create_right_prompt
 all?          │ append       │ char    │ compact            │ date
