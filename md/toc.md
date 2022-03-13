@@ -1,3 +1,5 @@
+text above
+
 | com        | com          | com     | com                |
 | ---------- | ------------ | ------- | ------------------ |
 | alias      │ any?         │ cd      │ columns            │
@@ -5,3 +7,5 @@
 | ansi       │ benchmark    │ chkplug │ complete           │
 | ansi gradi │ build-string │ clear   │ cp                 │
 | ansi strip │ cal          │ collect │ create_left_prompt │
+
+text below
