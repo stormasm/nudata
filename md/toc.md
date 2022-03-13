@@ -14,6 +14,12 @@ text above
 
 divide me
 
+| a | b | c |
+| - | - | - |
+| r | b | q |
+
+divide me
+
 | com        | com          | com     | com                |
 | ---------- | ------------ | ------- | ------------------ |
 | alias      │ any?         │ cd      │ columns            │
