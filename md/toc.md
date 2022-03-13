@@ -1,5 +1,19 @@
 text above
 
+| category   | command |
+| ---------- | ------- |
+| date       | none    |
+| filesystem | none    |
+| generators | none    |
+| hash       | none    |
+| network    | none    |
+| path       | none    |
+| platform   | none    |
+| random     | none    |
+| shells     | none    |
+
+divide me
+
 | com        | com          | com     | com                |
 | ---------- | ------------ | ------- | ------------------ |
 | alias      │ any?         │ cd      │ columns            │
