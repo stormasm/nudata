@@ -22,6 +22,8 @@ divide me
 
 | com        | com          | com     | com                |
 | ---------- | ------------ | ------- | ------------------ |
+| jim | bill | paul | ralph |
+| pete | stu | mike | hugh |
 | alias      │ any?         │ cd      │ columns            │
 | all?       │ append       │ char    │ compact            │
 | ansi       │ benchmark    │ chkplug │ complete           │
