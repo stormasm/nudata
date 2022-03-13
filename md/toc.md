@@ -24,10 +24,7 @@ divide me
 | ---------- | ------------ | ------- | ------------------ |
 | jim | bill | paul | ralph |
 | pete | stu | mike | hugh |
-| alias      │ any?         │ cd      │ columns            │
-| all?       │ append       │ char    │ compact            │
-| ansi       │ benchmark    │ chkplug │ complete           │
-| ansi gradi │ build-string │ clear   │ cp                 │
-| ansi strip │ cal          │ collect │ create_left_prompt │
+| alias      | any?         | cd      | columns            |
+| all?       | append       | char    | compact            |
 
 text below
