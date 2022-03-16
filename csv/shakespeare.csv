@@ -1,3 +1,6 @@
+type,line_id,play_name,speech_number,line_number,speaker,text_entry
+act,1,Henry IV,,,,ACT I
+scene,2,Henry IV,,,,SCENE I. London. The palace.
 line,40065,Henry V,83,5.2.381,Chorus,"Henry the Sixth, in infant bands crownd King"
 line,40066,Henry V,83,5.2.382,Chorus,"Of France and England, did this king succeed;"
 line,40067,Henry V,83,5.2.383,Chorus,"Whose state so many had the managing,"
